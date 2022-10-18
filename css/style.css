@@ -1,0 +1,91 @@
+.menu_inner{
+    margin: 50px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 390px;
+}
+.logo{
+    display: flex;
+    gap: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+.s{
+    color: #56D09D;
+}
+.l{
+    color: #96AFAF;
+}
+.catalog{
+    display: flex;
+    align-items:flex-start;
+    gap: 60px;
+}
+.catalog a{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #202020;
+}
+.home_inner{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 100px;
+}
+.left h1{
+    width: 512px;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    color: #202020;
+}
+.left p{
+    width:516px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #202020;
+    margin-top: 30px;
+}
+.right img{
+    width: 300px;
+    height: 360px;
+}
+.block_L{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.block_L h3{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    width: 194px;
+}
+.block_L p{
+    width: 290px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #202020;
+}
+.ellipse{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #96AFAF;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+
+

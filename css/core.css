@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font: 14px 'DM Sans', sans-serif;
+}
+.container{
+    width: 1060px;
+    margin: 0 auto;
+}
+.button{
+    background-color: #56D09D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 200px;
+    height: 40px;
+    text-decoration: none;
+    color: white;
+    margin-top: 60px;
+    border-radius: 5px;
+}
